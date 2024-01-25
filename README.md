@@ -29,8 +29,8 @@ A partir da análise dos dados, foi possível fornecer insights cruciais para co
 
 Projeto desenvolvido durante o programa iFood|Vem Ser Tech por:
 
-Bruna Dias
-Camylla Oliveira
-Eliane Patrício
-Nayla Andrade
-Rodrigo Freitas
+-Bruna Dias
+-Camylla Oliveira
+-Eliane Patrício
+-Nayla Andrade
+-Rodrigo Freitas
