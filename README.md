@@ -54,3 +54,5 @@ Os dados utilizados neste projeto foram obtidos no Kaggle, através do conjunto 
 
 ### Uso da Biblioteca Pandas
 O projeto utiliza extensivamente a biblioteca Pandas para realizar a limpeza, manipulação e análise exploratória dos dados. O código em Python está organizado de forma a permitir uma fácil compreensão e replicação do processo.
+
+### Programa de Bolsas em Análise de Dados - IFOOD
