@@ -52,5 +52,5 @@ Durante a análise, buscamos responder a uma série de perguntas fundamentais pa
 ### Fonte de Dados
 Os dados utilizados neste projeto foram obtidos no Kaggle, através do conjunto disponibilizado por Rafael Borges Graunke. Você pode acessar a fonte dos dados aqui.
 
-##@ Uso da Biblioteca Pandas
+### Uso da Biblioteca Pandas
 O projeto utiliza extensivamente a biblioteca Pandas para realizar a limpeza, manipulação e análise exploratória dos dados. O código em Python está organizado de forma a permitir uma fácil compreensão e replicação do processo.
